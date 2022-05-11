@@ -1,7 +1,7 @@
-import { getCharacter } from 'rickmortyapi';
+//import { getCharacter } from 'rickmortyapi';
 
 //Variables
-const URL = "https://rickandmortyapi.com/api/character/"; //API Link
+const URL = "https://rickandmortyapi.com/api/character/2"; //API Link
 
 //Element References
 const $name = $("#name");
@@ -14,11 +14,11 @@ const $input = $('input[type="text]');
 $form.on("submit", getCharData);
 
 //Functions
-function getCharData(event) {
-  event.preventDefault();
-  const userInput = $input.val(); //establishing/storing the value of the user input bar (so the user's actual input), into a variable
+function getCharData() {
+  //event.preventDefault();
+  //const userInput = $input.val(); //establishing/storing the value of the user input bar (so the user's actual input), into a variable
 
-  $.ajax(URL + userInput).then(function(data) {
+  $.ajax(URL).then(function(data) {
     console.log(data);
     $name.text(data.name);
     $species.text(data.species);
