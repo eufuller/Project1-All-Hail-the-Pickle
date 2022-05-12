@@ -1,13 +1,37 @@
-
 body{
-    /*
- //background-image: url("https://i.imgur.com/G5Q7fty.gif");  
- background-repeat:repeat;
- */
- display: grid;
- height: 100vh;
- margin: 0;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #000;
+    background-image: url(https://media0.giphy.com/media/nhYGNAUuxDua4/giphy.gif?cid=ecf05e473pvb3wx0cq6ufx4d00rxdh23v80unzhp0s6ruhn9&rid=giphy.gif&ct=g);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    color: #fff;
+    padding: 0 8%;
+    display: grid;
+    height: 100vh;
+    margin: 0;
+}
+
+h1{
+background-color: brown;
+}
+
+form{
 
 }
 
+main{
+
+
+}
+
+footer{
+    ;
+}
+
+.flex-ctr {
+    display: flex;
+    justify-content: space-around;
+}
 
