@@ -1,7 +1,7 @@
 //import { getCharacter } from 'rickmortyapi';
 
 //Variables
-const URL = "https://rickandmortyapi.com/api/character/2"; //API Link
+const URL = "https://rickandmortyapi.com/api/character/?name="; //API Link
 
 //Element References
 const $name = $("#name")
