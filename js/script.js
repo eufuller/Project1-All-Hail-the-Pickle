@@ -24,9 +24,10 @@ function handler(event){
 
 //Functions
 function getCharData(event) {
-  //if (event) {
-    preventDefault()
+  if (event) {
+    event.preventDefault()
     console.log(event)
+  }
   
     console.log($("#searchBar").val())
   //const userInput = $input.val(); //establishing/storing the value of the user input bar (so the user's actual input), into a variable
