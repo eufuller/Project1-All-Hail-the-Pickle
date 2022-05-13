@@ -9,14 +9,14 @@
   <li>jQuery</li>
   <li>Rick and Morty API</li>
   <li>AJAX</li> 
-  <li>CSS Flexbox and Grid.</li>
+  <li>CSS Flexbox and Grid</li>
 
 <h2>Inside Look</h2>
 <img src="https://i.imgur.com/1FyICme.png?2">
 
 <ol><h2>Getting Started:</h2></ol>
  <li>1. Don't be shy, come on over! https://aquamarine-zuccutto-648a92.netlify.app/</li>
- <li>2. Press the "Reveal the Pickle" button on the screen.</li>
+ <li>2. Press the button with the gif "Why do we think grandpa turned himself into a pickle?".</li>
  <li>3. Enjoy a closer look at the details of our favorite pickle!</li>
 
 <h2>Future Enhancements:</h2>
