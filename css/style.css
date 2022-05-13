@@ -1,45 +1,36 @@
 body{
-    /* min-height: 100vh;
-    width: 100%; */
     background-color: black;
     background-image: url("https://cdna.artstation.com/p/assets/images/images/031/538/850/original/petro-kosariekov-portal-gun-rick-and-morty2-2.gif?1603902186");
     background-position: top;
     background-repeat: no-repeat;
-    background-size: 50%;
+    background-size: 52%;
 }
 
 .container{
-    padding-top: 600px;
+    padding-top: 500px;
     padding-bottom: 0px;
     display: grid;
     height: 100vh;
 }
 
-footer{
-    font-size: 60px;
-    color: rgb(0, 151, 0);
-    position: absolute;
-    bottom: 0;
-
-   
-}
 
 main{
     display: flex;
-    flex-direction: row;
-    color: rgb(96, 212, 96)
-    
-    
-
+    height: 10vh;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: black;
 }
 
 form{
     font-family: 'Creepster';
     display: flex;
     flex-direction: row;
+    height: 10vh;
     justify-content: space-evenly;
     align-items: center;
-    color: rgb(148, 180, 101);
+    color: black;
 
 }
 
