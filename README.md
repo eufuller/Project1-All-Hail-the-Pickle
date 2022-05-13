@@ -14,7 +14,7 @@
   <li>CSS Flexbox and Grid.</li>
 
 <h2>Inside Look</h2>
-(https://i.imgur.com/1FyICme.png?2)
+<img src="https://i.imgur.com/1FyICme.png?2">
 
 <ol><h2>Getting Started:</h2></ol>
  <li>1. Don't be shy, come on over! https://aquamarine-zuccutto-648a92.netlify.app/</li>
