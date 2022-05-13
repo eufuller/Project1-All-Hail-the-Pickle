@@ -4,36 +4,53 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <title>Dead or Alive</title>
+    <title>Pickle Rick</title>
     <meta name="description" content=""/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="./css/style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet"/>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="./js/script.js" defer></script>
+    <style>
+        
+        input[type = "submit"]{
+            /* background-color: Black; */
+            background-image: url(https://media0.giphy.com/media/nhYGNAUuxDua4/giphy.gif?cid=ecf05e473pvb3wx0cq6ufx4d00rxdh23v80unzhp0s6ruhn9&rid=giphy.gif&ct=g);
+            background-position: bottom;
+            background-size: 100%;
+            height: 200px;
+            width: 350px;
+            border-color: green;
+            border-width: 7px;
+        }
+    </style>
   </head>
 
-  <body>
-
-    <h1 class = "title">Rick and Morty: Dead or Alive</h1>
+  <body class="container">
 
     <form id="target">
-      <input id="searchBar" type="text" placeholder="Search for a character"/>
-      <input id="submitBtn" type="submit" value="Search"/>
+      <!--<input id="searchBar" type="text" placeholder="Search for a character"/> -->
+      <input id="submitBtn" type="submit" value=""/>
+      <h3>Click on therapist to reveal Pickle Rick</h3>
     </form>
 
     <main>
-      <p class ="flex-ctr">  
-        <p class>Name:</p>
+      <h3 class ="flex-ctr">  
+        <p>Name:</p>
         <p id="name"></p>
+        <p>Gender:</p>
+        <p id="gender"></p>
         <p>Species:</p>
         <p id="species"></p>
         <p>Status:</p>
         <p id="status"></p>
-      </p>
+      </h3>
     </main>
 
-    <footer><h2>Get Shwifty</h2></footer>
+    <footer>All Hail The Pickle!!</footer>
 
   </body>
 

@@ -1,37 +1,57 @@
 body{
-    min-height: 100vh;
-    width: 100%;
-    background-color: #000;
-    background-image: url(https://media0.giphy.com/media/nhYGNAUuxDua4/giphy.gif?cid=ecf05e473pvb3wx0cq6ufx4d00rxdh23v80unzhp0s6ruhn9&rid=giphy.gif&ct=g);
-    background-position: center;
+    /* min-height: 100vh;
+    width: 100%; */
+    background-color: black;
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/031/538/850/original/petro-kosariekov-portal-gun-rick-and-morty2-2.gif?1603902186");
+    background-position: top;
     background-repeat: no-repeat;
-    background-size: 70%;
-    color: #fff;
-    padding: 0 8%;
+    background-size: 50%;
+}
+
+.container{
+    padding-top: 600px;
+    padding-bottom: 0px;
     display: grid;
     height: 100vh;
-    margin: 0;
-}
-
-h1{
-background-color: brown;
-}
-
-form{
-
-}
-
-main{
-
-
 }
 
 footer{
-    ;
+    font-size: 60px;
+    color: rgb(0, 151, 0);
+    position: absolute;
+    bottom: 0;
+
+   
 }
 
-.flex-ctr {
+main{
     display: flex;
-    justify-content: space-around;
+    flex-direction: row;
+    color: rgb(96, 212, 96)
+    
+    
+
 }
+
+form{
+    font-family: 'Creepster';
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(148, 180, 101);
+
+}
+
+
+/* .flex-ctr {
+    /* display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    align-content: flex-end; */
+    
+
+
+
 
