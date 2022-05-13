@@ -10,12 +10,11 @@
   <li>Javascript</li>
   <li>jQuery</li>
   <li>an external API</li>
-  <li>AJAX</li>
-  <li>Bootstrap</li> 
+  <li>AJAX</li> 
   <li>CSS Flexbox and Grid.</li>
 
 <h2>Inside Look</h2>
-![alt text](https://i.imgur.com/1FyICme.png?2)
+(https://i.imgur.com/1FyICme.png?2)
 
 <ol><h2>Getting Started:</h2></ol>
  <li>1. Don't be shy, come on over! https://aquamarine-zuccutto-648a92.netlify.app/</li>
