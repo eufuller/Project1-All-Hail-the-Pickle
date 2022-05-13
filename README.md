@@ -2,7 +2,7 @@
 
 <h1>It's Pickle Rick!!</h1>
 
-<h2>About the Site:</h2>This app allows the user to press a "Reveal" button that, once pressed, triggers a presentation of the Rick and Morty Character Pickle Rick. The presentation of Pickle Rick includes a photo, the character's name, species, gender and status of dead or alive. The background of the application is a gif of a scene from the "Pickle Rick" episode.
+<h2>About the Site:</h2>This app allows the user to press a button with a gif background that, once pressed, triggers a presentation of the Rick and Morty Character Pickle Rick. The presentation of Pickle Rick includes a photo, the character's name, species, gender and status of dead or alive. The background of the application is a gif of the iconic interdimensional portal.
 
 <ul><h2>Technologies Used: </h2></ul> 
  <li> HTML</li>
