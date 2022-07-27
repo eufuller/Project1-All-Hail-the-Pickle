@@ -1,4 +1,4 @@
-<h1>All Hail The Pickle!!</h1>
+<h1>All Hail The Pickle</h1>
 
 <h2>About the Site:</h2>This app allows the user to press a button with a gif background that, once pressed, triggers a presentation of the Rick and Morty Character Pickle Rick. The presentation of Pickle Rick includes a photo, the character's name, species, gender and status of dead or alive. The background of the application is a gif of the iconic interdimensional portal.
 
